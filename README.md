@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there, I'm Deny Arsyad 👋 -->
 
 <!--
 **denyarsyad/denyarsyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header](./image/header.png)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,php,laravel,react,ts,bootstrap,tailwind,nodejs,nginx,java&perline=10)](https://skillicons.dev)
