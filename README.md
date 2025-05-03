@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,php,laravel,react,ts,bootstrap,tailwind,nodejs,nginx,java&perline=15)](https://skillicons.dev)
 
+###
+
 <img src="https://raw.githubusercontent.com/denyarsyad/denyarsyad/output/snake.svg" alt="Snake animation" />
 
 ###
