@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](./image/header.png)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,php,laravel,react,ts,bootstrap,tailwind,nodejs,angular&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,php,laravel,react,ts,bootstrap,tailwind,nodejs,angular,mysql,npm&perline=15)](https://skillicons.dev)
 
 ###
 
